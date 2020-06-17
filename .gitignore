@@ -1,1 +1,3 @@
 *.mcpack
+tools/**
+!tools/packages.config
