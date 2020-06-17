@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Behavior pack for Brice's World",
+        "name": "Brice's Behavior Pack",
+        "uuid": "296630e5-165e-4588-b2e0-c467be5210a6",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Behavior pack for Brice's World",
+            "type": "data",
+            "uuid": "cd82688d-be6e-4aca-beb1-b45f0b026d29",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
