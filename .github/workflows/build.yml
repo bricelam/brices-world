@@ -1,0 +1,19 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - run: ./build.sh
+      - uses: actions/upload-artifact@v1
+        with:
+          name: resources.mcpack
+          path: resources.mcpack
+      - uses: actions/upload-artifact@v1
+        with:
+          name: behaviors.mcpack
+          path: behaviors.mcpack
