@@ -6,6 +6,7 @@ This repo contains the Minecraft resource and behavior packs for Brice's World.
 List of customizations:
 
 - Giant, ridable chickens
+- An all-seeing moon
 
 Resources
 ---------
