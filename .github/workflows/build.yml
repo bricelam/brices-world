@@ -11,7 +11,7 @@ jobs:
       - uses: cake-build/cake-action@v1
         with:
           cake-version: 0.34.1
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v2
         with:
           name: packs
           path: "*.mcpack"
