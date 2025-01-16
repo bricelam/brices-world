@@ -13,6 +13,7 @@ Resources
 
 Here are some useful resources:
 
+- https://docs.microsoft.com/en-us/minecraft/creator/
 - Minecraft's unmodified [resource](https://aka.ms/resourcepacktemplate) and [behavior](https://aka.ms/behaviorpacktemplate) packs
 - Minecraft Wiki's [Add-on](https://minecraft.gamepedia.com/Add-on) page
 - [Cake Reference](https://cakebuild.net/dsl/)

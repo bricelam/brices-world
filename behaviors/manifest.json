@@ -5,13 +5,13 @@
     "name": "Brice's Behavior Pack",
     "uuid": "296630e5-165e-4588-b2e0-c467be5210a6",
     "version": [
+      1,
       0,
-      0,
-      3
+      0
     ],
     "min_engine_version": [
       1,
-      14,
+      18,
       0
     ]
   },
@@ -21,19 +21,9 @@
       "type": "data",
       "uuid": "cd82688d-be6e-4aca-beb1-b45f0b026d29",
       "version": [
+        1,
         0,
-        0,
-        3
-      ]
-    }
-  ],
-  "dependencies": [
-    {
-      "uuid": "1af7a6eb-fc70-4529-a48e-afe770d35647",
-      "version": [
-        0,
-        0,
-        3
+        0
       ]
     }
   ]
